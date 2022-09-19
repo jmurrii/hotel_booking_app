@@ -1,19 +1,54 @@
 body {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   background-image: url("/assets/hotel.jpg");
   background-position: center;
-  color: #f0eaf1df;
 }
 
 .main-container {
+  margin-top: 50px;
+  padding-bottom: 10px;
   text-align: center;
+  background-color: rgba(223, 195, 123, 0.551);
 }
 
+h1,
+h4 {
+  text-shadow: 2px 2px #d8d39a;
+}
 h1 {
   font-size: 3rem;
-  text-shadow: 2px 2px #c06565;
 }
 
 h4 {
   font-size: 2rem;
-  text-shadow: 2px 2px #c06565;
+}
+
+form {
+  margin-top: 100px;
+}
+
+div label {
+  font-size: 1.3rem;
+}
+
+.form-group {
+  margin: 25px;
+}
+
+#form-section-2 {
+  margin: 25px;
+}
+
+#form-section-3 select {
+  margin: 5px;
+}
+
+#form-section-4 input {
+  background-color: rgba(83, 213, 146, 0.936);
+  padding: 8px;
+  font-size: 1.1rem;
+  border-radius: 5px;
 }
