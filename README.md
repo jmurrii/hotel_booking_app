@@ -3,7 +3,7 @@
  A hotel booking form for a fictitious hotel called “Three Rivers Resort”. 
  Languages Used:  HTML & CSS
 
-View it [here]()
+View it [here](https://jmurrii.github.io/hotel_booking_app/)
 
 ![My Image](assets/Three_Rivers_Screenshot.png)
 
