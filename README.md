@@ -14,4 +14,4 @@ I also learned more about CSS, namely flexbox and layouts.
 
 
 ## Author
-John Murray - Software Developer (...in training :)
+John Murray - _Software Developer_
